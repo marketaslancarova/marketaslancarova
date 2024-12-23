@@ -5,7 +5,7 @@ Full-Stack Developer & UX/UI Designer
 * 🖥️  See my portfolio at [Portfolio under development](http://marketaslancarova.com)
 * ✉️  You can contact me at [marketaslancarova@gmail.com](mailto:marketaslancarova@gmail.com)
 * 🚀  I'm currently working on [Village AR History](http://village AR History)
-* 🧠  I'm learning React
+* 🧠  I'm learning React & React Native
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
